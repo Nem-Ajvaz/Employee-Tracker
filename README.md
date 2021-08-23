@@ -60,13 +60,11 @@ Navigate the terminal to index.js in the cloned repo and run `node index.js` to 
 ## Questions
 
 For any further questions please reach out to my email :Email: nemanja.ajvaz@gmail.com or message me on GitHub:(https://github.com/Nem-Ajvaz)
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
-# Employee-Tracker
+
+
+## References:
+
+https://www.mysqltutorial.org/mysql-nodejs/connect/ \n
+https://2u-20.wistia.com/medias/2lnle7xnpk \n
+export PATH="${PATH}:/usr/local/mysql/bin/" \n
+ttps://stackoverflow.com/questions/51713333/how-to-terminate-npm-inquirer-prompt-and-return-control-to-main-menu-function
