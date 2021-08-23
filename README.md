@@ -4,7 +4,8 @@
 
 ## Video Link
 
-https://drive.google.com/file/d/1iKlXZjZROP8Oan5YN4v4lTADiB5liC7Z/view?usp=sharing
+https://drive.google.com/file/d/1iKlXZjZROP8Oan5YN4v4lTADiB5liC7Z/view?usp=sharing <br/>
+Please increase the video quality when viewing.
 
 ## Description
 
