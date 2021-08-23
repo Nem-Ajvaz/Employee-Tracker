@@ -71,5 +71,4 @@ GitHub: https://github.com/Nem-Ajvaz
 
 https://www.mysqltutorial.org/mysql-nodejs/connect/ <br/>
 https://2u-20.wistia.com/medias/2lnle7xnpk <br/>
-export PATH="${PATH}:/usr/local/mysql/bin/" <br/>
-ttps://stackoverflow.com/questions/51713333/how-to-terminate-npm-inquirer-prompt-and-return-control-to-main-menu-function
+https://stackoverflow.com/questions/51713333/how-to-terminate-npm-inquirer-prompt-and-return-control-to-main-menu-function
