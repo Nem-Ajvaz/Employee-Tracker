@@ -32,9 +32,9 @@ SO THAT I can organize and plan my business
 ```
 GIVEN a command-line application that accepts user input
 WHEN I start the application
-THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role -->
+THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
 WHEN I choose to view all departments
-THEN I am presented with a formatted table showing department names and department ids -->
+THEN I am presented with a formatted table showing department names and department ids
 WHEN I choose to view all roles
 THEN I am presented with the job title, role id, the department that role belongs to, and the salary for that role
 WHEN I choose to view all employees
@@ -59,7 +59,9 @@ Navigate the terminal to index.js in the cloned repo and run `node index.js` to 
 
 ## Questions
 
-For any further questions please reach out to my email :Email: nemanja.ajvaz@gmail.com or message me on GitHub:(https://github.com/Nem-Ajvaz)
+For any further questions please reach out to me on email or through my GitHub: \n
+Email: nemanja.ajvaz@gmail.com \n
+GitHub: https://github.com/Nem-Ajvaz
 
 
 ## References:
