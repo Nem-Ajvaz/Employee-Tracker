@@ -59,14 +59,14 @@ Navigate the terminal to index.js in the cloned repo and run `node index.js` to 
 
 ## Questions
 
-For any further questions please reach out to me on email or through my GitHub: \n
-Email: nemanja.ajvaz@gmail.com \n
+For any further questions please reach out to me on email or through my GitHub: <br \>
+Email: nemanja.ajvaz@gmail.com <br \>
 GitHub: https://github.com/Nem-Ajvaz
 
 
 ## References:
 
-https://www.mysqltutorial.org/mysql-nodejs/connect/ \n
-https://2u-20.wistia.com/medias/2lnle7xnpk \n
-export PATH="${PATH}:/usr/local/mysql/bin/" \n
+https://www.mysqltutorial.org/mysql-nodejs/connect/ <br \>
+https://2u-20.wistia.com/medias/2lnle7xnpk <br \>
+export PATH="${PATH}:/usr/local/mysql/bin/" <br \>
 ttps://stackoverflow.com/questions/51713333/how-to-terminate-npm-inquirer-prompt-and-return-control-to-main-menu-function
