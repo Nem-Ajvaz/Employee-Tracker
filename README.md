@@ -51,7 +51,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Installation
 
-Clone my repo using the following command `git clone https://github.com/Nem-Ajvaz/README.md-Generator` and then install inquirer using `npm install inquirer`
+Clone my repo using the following command `git clone https://github.com/Nem-Ajvaz/Employee-Tracker.git`, install inquirer using `npm install inquirer`, install MySQL2 `npm install mysql2`, install console table `npm install console.table`.
+
+If you want to have the console log welcoming message install the following modules:
+`npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch`
 
 ## Usage
 
@@ -59,14 +62,14 @@ Navigate the terminal to index.js in the cloned repo and run `node index.js` to 
 
 ## Questions
 
-For any further questions please reach out to me on email or through my GitHub: <br \>
-Email: nemanja.ajvaz@gmail.com <br \>
+For any further questions please reach out to me on email or through my GitHub: <br/>
+Email: nemanja.ajvaz@gmail.com <br/>
 GitHub: https://github.com/Nem-Ajvaz
 
 
 ## References:
 
-https://www.mysqltutorial.org/mysql-nodejs/connect/ <br \>
-https://2u-20.wistia.com/medias/2lnle7xnpk <br \>
-export PATH="${PATH}:/usr/local/mysql/bin/" <br \>
+https://www.mysqltutorial.org/mysql-nodejs/connect/ <br/>
+https://2u-20.wistia.com/medias/2lnle7xnpk <br/>
+export PATH="${PATH}:/usr/local/mysql/bin/" <br/>
 ttps://stackoverflow.com/questions/51713333/how-to-terminate-npm-inquirer-prompt-and-return-control-to-main-menu-function
